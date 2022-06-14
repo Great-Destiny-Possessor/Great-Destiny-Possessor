@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Great-Destiny-Possessor
+- 👋 Hi, I’m @Ayomo Joshua Odunayo
 - 👀 I’m interested in programming 🖥️💻
 - 🌱 I’m currently learning python core and C++
 - 💞️ I’m looking to collaborate on website design
