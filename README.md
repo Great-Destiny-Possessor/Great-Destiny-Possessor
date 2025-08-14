@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Ayomo Joshua Odunayo
-- 👀 I’m interested in programming 🖥️💻
-- 🌱 I’m currently learning python core and C++
-- 💞️ I’m looking to collaborate on website design
-- 📫 How to reach me 
+
 
 <!---
 Great-Destiny-Possessor/Great-Destiny-Possessor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
